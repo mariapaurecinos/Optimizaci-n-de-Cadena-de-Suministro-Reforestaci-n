@@ -1,0 +1,3 @@
+﻿ancla,costo,carbono,estado,gap
+"A (min costo, luego max carbono)",2424629.000000001,836064.4869394995,optimal,0.00990094023096047
+"B (max carbono, luego min costo)",2646786.5,955557.4318712725,optimal,0.00840509803114078
